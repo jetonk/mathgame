@@ -1,0 +1,124 @@
+body{
+    background-color: #bdc3c7;
+}
+.app-header{
+    font-size: 32px;
+    padding-bottom: 35px;
+    text-align: center;
+}
+.header{
+    font-size: 28px;
+    text-align: center;
+}
+.header-score{
+    font-size: 28px;
+    text-align: center;
+}
+.main-div{
+    padding: 25px;
+}
+.part-down{
+    /*padding-top: 55px;*/
+}
+.calc-div{
+    display: none;
+}
+.scores{
+    display: none;
+}
+.scores-btn{
+    padding-top: 45px;
+}
+.math-numbers{
+    padding: 55px;
+}
+.number{
+    font-size: 32px;
+}
+.msg{
+    font-size: 32px;
+    height: 50px;
+}
+.operator{
+    font-size: 32px;
+}
+.sum{
+    font-size: 32px;
+}
+.btnSubmit{
+    background: #3498db;
+    color: #ffffff;
+    font-size: 29px;
+    height: 60px;
+}
+.btnNext{
+    height: 55px;
+}
+.main-div img:hover{
+    background-color: #2c3e50;
+    border-radius: 10px;
+}
+.navbar-header{
+    padding-top: 5px;
+}
+.app-navbar{
+    background-color: #2c3e50;
+    color: #FFFFFF;
+    height: 30px;
+}
+.btn-home{
+    cursor: pointer;
+}
+.btn-lg {
+    padding: 10px 16px;
+    font-size: 29px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    width: 71px;
+}
+.result{
+    height: 55px;
+}
+.score-div, .score{
+    font-size: 20px;
+}
+
+.panel-body {
+    padding-top: 25px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 5px;
+}
+.hidden-ele{
+    display: none;
+}
+.correct{
+    color: #4cae4c
+}
+.wrong{
+    color: #ac2925;
+}
+.btn-main{
+    height: 120px;
+    font-size: 82px;
+    font-weight: bold;
+}
+#multiplication{
+    padding-top: 15px;
+}
+.btn-scores{
+    height: 55px;
+}
+.wrong-ans{
+    border-style: solid;
+    border-color: #ac2925;
+    border-radius: 5px;
+}
+.correct-ans{
+    border-style: solid;
+    border-color: #4cae4c;
+    border-radius: 5px;
+}
+.btn-save-score{
+    height: 60px;
+}
